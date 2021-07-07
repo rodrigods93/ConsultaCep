@@ -1,0 +1,10 @@
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\bin\Debug\ConsultarCeps.exe.config
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\bin\Debug\ConsultarCeps.exe
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\bin\Debug\ConsultarCeps.pdb
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.FrmConsultarCeps.resources
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.Properties.Resources.resources
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.exe
+C:\Users\rodri\source\repos\ConsultarCeps\ConsultarCeps\obj\Debug\ConsultarCeps.pdb
